@@ -1,1 +1,1 @@
-# eco-predict
+# 🌤️ GenAI Energy Forecasting Chatbot 
